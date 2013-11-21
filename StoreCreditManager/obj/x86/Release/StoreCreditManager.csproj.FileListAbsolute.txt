@@ -1,0 +1,17 @@
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.FirstDialog.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.MainWin.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.History.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.NewCustDialog.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.Properties.Resources.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.About.resources
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\bin\Release\StoreCreditManager.exe.manifest
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\bin\Release\StoreCreditManager.application
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\bin\Release\StoreCreditManager.exe
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\bin\Release\StoreCreditManager.pdb
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.exe.manifest
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.application
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.exe
+C:\Users\Jeff\documents\visual studio 2010\Projects\StoreCreditManager\StoreCreditManager\obj\x86\Release\StoreCreditManager.pdb
